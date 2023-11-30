@@ -1,3 +1,3 @@
-# gGit learning project
+# Git learning project
 
 This repo is created only for study purpose.
