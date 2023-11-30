@@ -1,3 +1,3 @@
 # Git learning project
 
-This repo is created only for study purpose.
+This repo is created only for study purpose only.
